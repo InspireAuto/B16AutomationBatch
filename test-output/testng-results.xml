@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9897" started-at="2022-06-29T20:58:30 IST" finished-at="2022-06-29T20:58:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9897" started-at="2022-06-29T20:58:30 IST" finished-at="2022-06-29T20:58:40 IST">
+      <class name="test.GitHubTestCase">
+        <test-method status="PASS" signature="launch()[pri:0, instance:test.GitHubTestCase@5bfbf16f]" name="launch" is-config="true" duration-ms="8998" started-at="2022-06-29T20:58:30 IST" finished-at="2022-06-29T20:58:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="loginTestCase1()[pri:0, instance:test.GitHubTestCase@5bfbf16f]" name="loginTestCase1" duration-ms="4" started-at="2022-06-29T20:58:39 IST" finished-at="2022-06-29T20:58:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase1 -->
+        <test-method status="PASS" signature="loginTestCase2()[pri:0, instance:test.GitHubTestCase@5bfbf16f]" name="loginTestCase2" duration-ms="2" started-at="2022-06-29T20:58:39 IST" finished-at="2022-06-29T20:58:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.GitHubTestCase@5bfbf16f]" name="tearDown" is-config="true" duration-ms="850" started-at="2022-06-29T20:58:39 IST" finished-at="2022-06-29T20:58:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.GitHubTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
